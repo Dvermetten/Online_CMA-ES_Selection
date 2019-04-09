@@ -1,0 +1,4 @@
+*.pdf
+Notebooks/*.npy
+Notebooks/*.png
+*.pyc
